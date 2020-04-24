@@ -3,6 +3,7 @@
 **NOTE:** If you're looking for Swagger Core 1.5.X and OpenAPI 2.0, please refer to [1.5 branch](https://github.com/swagger-api/swagger-core/tree/1.5).
 
 [![Build Status](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-8/badge/icon?subject=jenkins%20build%20-%20java%208)](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-8/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fswagger-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fswagger-core?ref=badge_shield)
 
 [![Build Status](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-9/badge/icon?subject=jenkins%20build%20-%20java%209)](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-9/)
 
@@ -87,3 +88,7 @@ The samples have moved to [a new repository](https://github.com/swagger-api/swag
 ## Security contact
 
 Please disclose any security-related issues or vulnerabilities by emailing [security@swagger.io](mailto:security@swagger.io), instead of using the public issue tracker.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fswagger-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fswagger-core?ref=badge_large)
